@@ -36,5 +36,8 @@
     "should": "^6.0.3",
     "stream-combiner2": "^1.0.2",
     "through2": "^0.6.5"
+  },
+  "dependencies": {
+    "require-dir": "^0.3.0"
   }
 }

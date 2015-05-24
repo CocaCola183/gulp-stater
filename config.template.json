@@ -1,0 +1,29 @@
+{
+		"css": [
+				"bower_components/bootstrap/dist/css/bootstrap.min.css",
+				"bower_components/bootstrap/dist/css/bootstrap-theme.min.css"
+		],
+		"js": [
+				"bower_components/jquery/dist/jquery.min.js",
+				"bower_components/bootstrap/dist/js/bootstrap.min.js"
+		],
+		"src": {
+				"base": "./src",
+				"js": "./src/js",
+				"css": "./src/css",
+				"image": "./src/image",
+				"hbs": "./src/hbs"
+		},
+		"dest": {
+				"base": "dist",
+				"js": "./dist/js",
+				"css": "./dist/css",
+				"image": "./dist/image",
+				"hbs": "./dist/hbs"
+		},
+		"remote": {
+				"hostname": "example.example.com",
+				"username": "example",
+				"destination": "/home/example/site"
+		}
+}
