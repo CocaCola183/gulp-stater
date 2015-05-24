@@ -1,0 +1,49 @@
+{
+		"article1": {
+				"title": "标题",
+				"content": "正文内容"
+		},
+		"index": {
+				"newsList": [{
+						"title": "标题1",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题2",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题3",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题4",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题5",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题6",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题7",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题8",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题9",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}, {
+						"title": "标题10",
+						"time": "2015-05-23",
+						"author": "Kivi"
+				}]
+		}
+}

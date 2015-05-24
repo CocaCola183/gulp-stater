@@ -1,0 +1,17 @@
+<div class="list-group">
+   <a href="#" class="list-group-item active">
+      <h4 class="list-group-item-heading">
+         新闻列表
+      </h4>
+   </a>
+   {{#each newsList}}
+      <a href="#" class="list-group-item">
+      <h4 class="list-group-item-heading">
+         {{title}}
+      </h4>
+      <p class="list-group-item-text">
+         {{author}} | {{time}}
+      </p>
+   </a>
+   {{/each}}
+</div>

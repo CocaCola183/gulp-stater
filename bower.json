@@ -1,0 +1,24 @@
+{
+  "name": "gulp-stater",
+  "version": "1.0.0",
+  "homepage": "https://github.com/CocaCola183/gulp-stater",
+  "authors": [
+    "Kivi"
+  ],
+  "description": "gulp starter",
+  "keywords": [
+    "gulp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4"
+  }
+}
